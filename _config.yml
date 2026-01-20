@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "dark" # "default", "air", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Nora Loose"
+title                    : "Mohit Sharma"
 title_separator          : "-"
-name                     : "Nora Loose"
-description              : "Nora Loose's personal website"
+name                     : "Mohit Sharma"
+description              : "Mohit Sharma's personal website"
 url                      : "https://mohitksharma10.github.io" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nora Loose"
+  name             : "Mohit Sharma"
   avatar           : "/assets/images/avatar2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Global and Regional Ocean Modeling, Machine Learning, Mesoscale Eddy Parameterizations, Scientific Software Development, Adjoint Modeling, Data Assimilation, Uncertainty Quantification"
   location         : "Boulder, Colorado"
