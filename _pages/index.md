@@ -11,13 +11,13 @@ author_profile: true
 # About
 
 
-I am a researcher Scientist at [CRERS](https://www.uc.pt/ceres/), a small non-profit research organization dedicated to quantifying the efficiency and ecological impacts of ocean-based carbon dioxide removal (CDR). 
-At [C]Worthy, I use ocean circulation models such as Oceananigans.jl and ROMS-MARBL to investigate how physical ocean processes influence CDR outcomes. My work focuses on developing faster and more efficient methods for running ocean biogeochemical simulations and performing CDR calculations. I also build open-source software tools to ensure these simulations are reproducible and accessible to the broader research and CDR communities.
+I am a Junior researcher (under fix-term contract, July 2022 - Current) at [Chemical Engineering and Renewable Resources for Sustainability; CRERS](https://www.uc.pt/ceres/), funded by the Foundation for Science and Technology (FCT) at Department of Chemical Engineering, University of Coimbra, Portugal.
+At [CRERS](https://www.uc.pt/ceres/), I completed my PhD (Oct 2018 - March 2023) in Chemical Engineering, focusing on biorefineries and pulp and paper technologies. My thesis, titled “Bio‑based coatings for improving paper printing and barrier properties,” explored sustainable solutions for improvement of paper surface properties.
 
 Before joining [C]Worthy, I worked with the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/) and [M2LInES Team](https://m2lines.github.io/), where I studied ocean mesoscale eddy parameterizations in both projects.
-My research with the CPT focused on theoretical and numerical modeling approaches to embedding physical and energy constraints into ocean eddy parameterizations. 
-As part of the M2LInES project, I applied machine learning techniques to develop hybrid climate models, integrating machine-learned eddy parameterizations with traditional ocean model dynamical cores.
-During my PhD, I worked on adjoint modeling, ocean state estimation and uncertainty quantification within the [ECCO project](https://ecco-group.org/).
+I completed my Bachelor of Technology in Biotechnology in 2012 from Vellore Institute of Technology, Tamilnadu, and my Master’s in Pulp and Paper Engineering in 2014 from the Department of Paper and Packaging Technology at Indian Institute of Technology, Roorkee. During my master’s program, I received a DAAD scholarship to conduct my thesis work at the department of Macromolecular and Paper Chemistry at Technical University of Darmstadt, Germany. 
+
+Before starting my PhD, I worked for four years (2014‑18) as a process engineer in an Indian pulp and paper industry, where I led production teams, optimized paper machine performance, and contributed to mill development projects. This experience still shapes the way I approach research and problem‑solving.
 
 I develop open-source software tools in Python and Julia to support efficient, reproducible, and open science within our community.
 I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).
