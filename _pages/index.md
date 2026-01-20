@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/Mohit.jpg" width="340px" alt="Mohit Sharma" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
+<img src="/assets/images/Mohit.png" width="340px" alt="Mohit Sharma" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
 
 # About
 
