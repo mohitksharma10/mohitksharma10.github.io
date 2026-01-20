@@ -80,10 +80,10 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Sharma"
-  avatar           : "/assets/images/avatar2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Global and Regional Ocean Modeling, Machine Learning, Mesoscale Eddy Parameterizations, Scientific Software Development, Adjoint Modeling, Data Assimilation, Uncertainty Quantification"
-  location         : "Boulder, Colorado"
-  email            : "nora@cworthy.org"
+  avatar           : "/assets/images/Mohit.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Sustainable packaging researcher | Paper engineer | Expert in bio-based coatings & functional polymers for paper packaging | Industrial research in paper & packaging | Ph.D."
+  location         : "Coimbra, Portugal"
+  email            : "mohit@eq.uc.pt"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,24 +91,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NoraLoose"
+  github           : "mohitksharma10"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "nora-loose-44a39a96"
+  linkedin         : "mohitksharma10/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : 
+  steam            : 
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  orcid            : "0000-0002-3684-9634"
+  youtube          : 
+  orcid            : "0000-0002-7435-7139"
 
 
 # Reading Files
