@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Sharma"
-  avatar           : "/assets/images/Mohit.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Mohit.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sustainable packaging researcher | Paper engineer | Expert in bio-based coatings & functional polymers for paper packaging | Industrial research in paper & packaging | Ph.D."
   location         : "Coimbra, Portugal"
   email            : "mohit@eq.uc.pt"
