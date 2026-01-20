@@ -11,7 +11,7 @@ author_profile: true
 # About
 
 
-I am a Staff Scientist at [[C]Worthy](https://www.cworthy.org/), a small non-profit research organization dedicated to quantifying the efficiency and ecological impacts of ocean-based carbon dioxide removal (CDR). 
+I am a researcher Scientist at [[C]Worthy](https://www.cworthy.org/), a small non-profit research organization dedicated to quantifying the efficiency and ecological impacts of ocean-based carbon dioxide removal (CDR). 
 At [C]Worthy, I use ocean circulation models such as Oceananigans.jl and ROMS-MARBL to investigate how physical ocean processes influence CDR outcomes. My work focuses on developing faster and more efficient methods for running ocean biogeochemical simulations and performing CDR calculations. I also build open-source software tools to ensure these simulations are reproducible and accessible to the broader research and CDR communities.
 
 Before joining [C]Worthy, I worked with the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/) and [M2LInES Team](https://m2lines.github.io/), where I studied ocean mesoscale eddy parameterizations in both projects.
