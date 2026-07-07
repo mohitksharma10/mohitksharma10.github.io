@@ -39,11 +39,7 @@ I studied synergetic effect between highly substituted cationic starches and Plu
 </figcaption>
 </figure>
 
-
-
-
-* **Offline learning:** ML models are trained on outputs from high-resolution simulations or observational datasets before being incorporated into the ocean model.
-* **Online learning:** ML models are trained dynamically during the simulation itself, requiring the ocean model to be differentiable.
+* **Skills learning:** Statistical Modeling, Comprehensive Printing Metrics, Paper strenural and optical properties, contact angle goniometry, kinematic and inherent viscosity, SEM
 
 During my work with the [M2LInES Team](https://m2lines.github.io/), I focused on offline approaches to hybrid modeling. I began by diagnosing eddy fluxes from high-resolution MOM6 simulations using filtering and coarse-graining techniques. I then trained ML models on these offline datasets using PyTorch. To evaluate the model’s performance in an online setting, I integrated it into the MOM6 code base. 
 However, offline-learned parameterizations often encounter numerical instability when coupled with the full model, highlighting the potential advantages of online approaches.
