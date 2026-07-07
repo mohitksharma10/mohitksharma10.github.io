@@ -48,7 +48,9 @@ This study was published [(Article)](https://link.springer.com/article/10.1007/s
 
 ## M/NFC-Based Solutions for High-Quality Inkjet Printing
 
-This research demonstrates that incorporating micro-/nanofibrillated celluloses (M/NFCs) into low-weight paper coatings significantly enhances inkjet printing quality by increasing gamut area and optical density. The study found that a 16% concentration of M/NFCs is optimal for maintaining the coating homogeneity and rheological properties necessary for uniform application. A major finding is that betaine hydrochloride (BetHCl) serves as a highly effective and cost-efficient zwitterionic additive; when combined with mechanically produced MFC, Pluronics, and PCC, it improved the gamut area by 36.1% and optical density by 24% while preserving paper whiteness. Ultimately, the authors identify mechanically produced MFC (m-MFC) as the most industrially feasible choice because it delivers superior printing performance without the high energy or chemical costs associated with other pretreatment methods. The work resulted in a publication  [(Article)](https://www.mdpi.com/2079-4991/12/16/2853) in Nanomaterials, [national and international patent filings] (https://patentscope.wipo.int/search/en/WO2024023648), and ongoing pilot/industrial trials with partner company.
+This research demonstrates that incorporating micro-/nanofibrillated celluloses (M/NFCs) into low-weight paper coatings significantly enhances inkjet printing quality by increasing gamut area and optical density. The study found that a 16% concentration of M/NFCs is optimal for maintaining the coating homogeneity and rheological properties necessary for uniform application. A major finding is that betaine hydrochloride (BetHCl) serves as a highly effective and cost-efficient zwitterionic additive; when combined with mechanically produced MFC, Pluronics, and PCC, it improved the gamut area by 36.1% and optical density by 24% while preserving paper whiteness. Ultimately, the authors identify mechanically produced MFC (m-MFC) as the most industrially feasible choice because it delivers superior printing performance without the high energy or chemical costs associated with other pretreatment methods.
+
+* **Skills learning:** Enzymatic Pretreatment, Statistical Modeling, Comprehensive Printing Metrics, Paper strenural and optical properties, contact angle goniometry, kinematic and inherent viscosity, SEM
 
 <figure>
   <img src="/assets/images/Printing.jpg" 
@@ -57,6 +59,8 @@ This research demonstrates that incorporating micro-/nanofibrillated celluloses 
   <figcaption>Left: Effect of betaine hydrochloride on (A) gamut area, optical density for black, (B) print through and inter color bleed in presence of PCC, P123 and micro-/nanofibrillated celluloses.
 </figcaption>
 </figure>
+
+he work resulted in a publication  [(Article)](https://www.mdpi.com/2079-4991/12/16/2853) in Nanomaterials, [national and international patent filings] (https://patentscope.wipo.int/search/en/WO2024023648), and ongoing pilot/industrial trials with partner company.
 
 ## Adjoint Modeling in the North Atlantic
 
