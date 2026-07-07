@@ -18,7 +18,7 @@ My research lies at the development of bio-based materials, their production and
 ## Inpactus
 
 <figure>
-  <img src="/assets/images/antitracer.png" width="1000px" alt="">
+  <img src="/assets/images/Fig.1.DOESBsynthesis.jpg" width="1000px" alt="">
   <figcaption>Tracer release experiment in a global Oceananigans.jl configuration, simulating the enhancement of ocean alkalinity between Thailand and Indonesia.
 </figcaption>
 </figure>
