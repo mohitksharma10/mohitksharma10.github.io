@@ -1,27 +1,30 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
 @charset "utf-8";
+
+// Widen the page layout — must come BEFORE the theme imports
+$max-width: 1600px; // default is 1280px
+$right-sidebar-width-narrow: 200px; // default 200px
+$right-sidebar-width: 250px; // default 300px
+$right-sidebar-width-wide: 300px; // default 400px
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes";
 
 html {
   font-size: 14px; // change to whatever
-
   @include breakpoint($medium) {
     font-size: 16px; // change to whatever
   }
-
   @include breakpoint($large) {
     font-size: 18px; // change to whatever
   }
-
   @include breakpoint($x-large) {
     font-size: 20px; // change to whatever
   }
 }
+
 .page__content p {
   text-align: justify;
   hyphens: auto;
