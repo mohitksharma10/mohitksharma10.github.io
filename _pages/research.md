@@ -17,7 +17,7 @@ My research lies at the development of bio-based materials, their production and
 
 ## Novel Synthesis of Starch Betainate by Transesterification
 
-I develop a novel two-step synthesis of starch betainate (SB) using transesterification as a more sustainable and high-purity alternative to conventional etherification methods. I successfully converted starch into cationic esters by reacting it with methyl betainate in both aprotic solvents (DMF and DMSO) and via solid-state ball milling under various pH conditions. While the solution-based method in DMF achieved a higher degree of substitution (up to 0.4), the solvent-free ball milling approach was notably efficient, reaching a degree of substitution of 0.04 within just two hours while minimizing polymer degradation. Ultimately, the study concludes that these transesterification routes produce biodegradable, non-toxic cationic starches with high purity and no undesired coloring, offering a promising alternative for industrial applications such as papermaking and wastewater treatment
+I develop a novel two-step synthesis of starch betainate (SB) using transesterification as a more sustainable and high-purity alternative to conventional etherification methods. I successfully converted starch into cationic esters by reacting it with methyl betainate in both aprotic solvents (DMF and DMSO) and via solid-state ball milling under various pH conditions. While the solution-based method in DMF achieved a higher degree of substitution (up to 0.4), the solvent-free ball milling approach was notably efficient, reaching a degree of substitution of 0.04 within just two hours while minimizing polymer degradation. Ultimately, the study concludes that these transesterification routes produce biodegradable, non-toxic cationic starches with high purity and no undesired coloring, offering a promising alternative for industrial applications such as papermaking and wastewater treatment. This methodology was published in the International Journal of Biological Macromolecules [Article](https://www.sciencedirect.com/science/article/pii/S0141813021011569) and protected through [national and international patent filings](https://patentscope.wipo.int/search/en/WO2022168011). 
 
 <figure>
   <img src="/assets/images/Fig.2. HNMR_MeBetCl_SB.jpg">
@@ -28,9 +28,10 @@ I develop a novel two-step synthesis of starch betainate (SB) using transesterif
 * **Skills learning:** Starch chemistry, Organic synthesis, NMR, FTIR, TGA, Elemantal analysis
 * **Online learning:** ML models are trained dynamically during the simulation itself, requiring the ocean model to be differentiable.
 
+
 ## Synergetic Enhancement of Paper Printability and Whiteness
 
-I studied synergetic effect between highly substituted cationic starches and Pluronic triblock copolymers that significantly enhances the inkjet printing quality of office papers. While individual components like starch betainate or Pluronic P123 only moderately increased the gamut area (by 8.9% and 6.8%, respectively), their combined application in paper coatings resulted in a 16–18% improvement. A key discovery is that starch betainate (a cationic ester) serves as a superior alternative to traditional cationic ethers because it quenches optical brightening agents (OBA) to a much lesser extent, thereby preserving paper whiteness while simultaneously improving ink density and gamut volume. Ultimately, the binary interaction between these components facilitates better ink fixation and binder penetration, offering a more effective and biodegradable route for high-quality paper coatings
+I studied synergetic effect between highly substituted cationic starches and Pluronic triblock copolymers that significantly enhances the inkjet printing quality of office papers. While individual components like starch betainate or Pluronic P123 only moderately increased the gamut area (by 8.9% and 6.8%, respectively), their combined application in paper coatings resulted in a 16–18% improvement. A key discovery is that starch betainate (a cationic ester) serves as a superior alternative to traditional cationic ethers because it quenches optical brightening agents (OBA) to a much lesser extent, thereby preserving paper whiteness while simultaneously improving ink density and gamut volume. Ultimately, the binary interaction between these components facilitates better ink fixation and binder penetration, offering a more effective and biodegradable route for high-quality paper coatings. This study was published in the Cellulose Journal of [Article](https://link.springer.com/article/10.1007/s10570-021-04206-w).
 
 <figure>
   <img src="/assets/images/GA1.png" width="1000px" alt="">
@@ -53,6 +54,8 @@ Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose
 [Yu, ..., Loose et al.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html), NeurIPS (2023)
 
 ## Ocean Mesoscale Eddies and their Parameterizations
+
+Further, I also explored nanocellulose‑based coating formulations to enhance paper printing and barrier properties. Nanocellulose samples were produced using mechanical refining, enzymatic pretreatment, TEMPO‑oxidation, and sodium‑periodate oxidation followed by cationization with Girard’s reagent. Combined with starch betainate, betaine hydrochloride, and Pluronics, these systems significantly improved paper surface properties and printability. The work resulted in a publication in Nanomaterials [Article](https://www.mdpi.com/2079-4991/12/16/2853), [national and international patent filings] (https://patentscope.wipo.int/search/en/WO2024023648), and ongoing pilot/industrial trials with partner company.
 
 <figure>
   <img src="/assets/images/KE.png" width="1000px" alt="">
