@@ -26,7 +26,6 @@ I develop a novel two-step synthesis of starch betainate (SB) using transesterif
 </figure>
 
 * **Skills learning:** Starch chemistry, Organic synthesis, NMR, FTIR, TGA, Elemantal analysis
-* **Online learning:** ML models are trained dynamically during the simulation itself, requiring the ocean model to be differentiable.
 
 
 ## Synergetic Enhancement of Paper Printability and Whiteness
