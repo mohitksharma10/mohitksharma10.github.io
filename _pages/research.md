@@ -19,7 +19,7 @@ My research lies at the development of bio-based materials, their production and
 
 I develop a novel two-step synthesis of starch betainate (SB) using transesterification as a more sustainable and high-purity alternative to conventional etherification methods. I successfully converted starch into cationic esters by reacting it with methyl betainate in both aprotic solvents (DMF and DMSO) and via solid-state ball milling under various pH conditions. While the solution-based method in DMF achieved a higher degree of substitution (up to 0.4), the solvent-free ball milling approach was notably efficient, reaching a degree of substitution of 0.04 within just two hours while minimizing polymer degradation. Ultimately, the study concludes that these transesterification routes produce biodegradable, non-toxic cationic starches with high purity and no undesired coloring, offering a promising alternative for industrial applications such as papermaking and wastewater treatment. This methodology was published  [(Article)](https://www.sciencedirect.com/science/article/pii/S0141813021011569) in the International Journal of Biological Macromolecules and protected through [national and international patent filings](https://patentscope.wipo.int/search/en/WO2022168011). 
 
-<figure>
+<figure style="text-align: center;">
   <img src="/assets/images/Fig.2. HNMR_MeBetCl_SB.jpg"
     alt="1H NMR spectra"
     style="width:70%; height:auto;">
