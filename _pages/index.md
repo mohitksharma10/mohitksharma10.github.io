@@ -13,8 +13,8 @@ author_profile: true
 
 I am currently a Junior Researcher (Contract Researcher) at [Chemical Engineering and Renewable Resources for Sustainability; CRERS](https://www.uc.pt/ceres/), funded by the Foundation for Science and Technology (FCT) at Department of Chemical Engineering, University of Coimbra, Portugal. 
 
-I began my scholar journey after receiving a prestigious scholarship from the MHRD, Government of India (GOI), to pursue a Master of Technology degree at one of India’s leading institutions, the Department of Paper and Packaging Technology, Indian Institute of Technology Roorkee (2012–
-2014). During my masters' studies, I ranked among the top students and was selected for the highly competitive DAAD scholarship. This enabled me
+I began my scholar journey after receiving a competitive scholarship from the MHRD, Government of India (GOI), to pursue a Master of Technology degree at one of India’s leading institutions, the Department of Paper and Packaging Technology, Indian Institute of Technology Roorkee (2012–
+2014). During my masters' studies, I ranked among the top students and was selected for the DAAD scholarship. This enabled me
 to complete my master thesis as a visiting scholar at the TU Darmstadt, Germany, where my research focused on the development of novel photoreactive
 polymers to improve the wet strength properties of paper.
 
