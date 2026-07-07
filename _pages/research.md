@@ -37,7 +37,7 @@ I studied synergetic effect between highly substituted cationic starches and Plu
 <figure>
   <img src="/assets/images/GA1.png" 
      alt="GA"
-    style="display: block; margin: 0 auto; width: 60%; height: auto;">
+    style="display: block; margin: 0 auto; width: 80%; height: auto;">
   <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations.
 </figcaption>
 </figure>
