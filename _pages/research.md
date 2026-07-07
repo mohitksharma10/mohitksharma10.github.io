@@ -28,7 +28,7 @@ During this project, I develop a novel two-step synthesis of starch betainate (S
 ## Synergetic Enhancement of Paper Printability and Whiteness
 
 <figure>
-  <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
+  <img src="/assets/images/GA1.png" width="1000px" alt="">
   <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations.
 </figcaption>
 </figure>
