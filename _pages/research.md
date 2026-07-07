@@ -10,15 +10,12 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography, numerical modeling, and machine learning. Current and past research projects include:
-- Regional coupled physical-biogeochemical modeling
-- Integrating machine learning and ocean modeling
-- Ocean mesoscale eddies and their parameterizations
-- Adjoint modeling in the North Atlantic
-- Uncertainty quantification & observing system design
-- Development of open source software tools
+My research lies at the development of bio-based materials, their production and applications in high value added applications. I have involved in following research projects include:
+- Inpactus
+- From Fossil to Forest 
+- Ligold
 
-## Regional Coupled Physical-Biogeochemical Modeling
+## Inpactus
 
 <figure>
   <img src="/assets/images/antitracer.png" width="1000px" alt="">
