@@ -40,14 +40,6 @@ I studied synergetic effect between highly substituted cationic starches and Plu
 
 * **Skills learning:** Enzymatic Pretreatment, Statistical Modeling, Comprehensive Printing Metrics, Paper strenural and optical properties, contact angle goniometry, kinematic and inherent viscosity, SEM
 
-During my work with the [M2LInES Team](https://m2lines.github.io/), I focused on offline approaches to hybrid modeling. I began by diagnosing eddy fluxes from high-resolution MOM6 simulations using filtering and coarse-graining techniques. I then trained ML models on these offline datasets using PyTorch. To evaluate the model’s performance in an online setting, I integrated it into the MOM6 code base. 
-However, offline-learned parameterizations often encounter numerical instability when coupled with the full model, highlighting the potential advantages of online approaches.
-
-As part of the [DJ4Earth project](https://dj4earth.github.io/), I supervise students applying online learning techniques to improve ocean eddy parameterizations. In this approach, the machine-learned parameterization is trained alongside the simulation, requiring a differentiable ocean model with an adjoint. We implement this method using the ocean model Oceananigans, and train the ML models in Julia.
-
-Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose.00241), JOSE (2024);
-[Yu, ..., Loose et al.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html), NeurIPS (2023)
-
 ## Ocean Mesoscale Eddies and their Parameterizations
 
 Further, I also explored nanocellulose‑based coating formulations to enhance paper printing and barrier properties. Nanocellulose samples were produced using mechanical refining, enzymatic pretreatment, TEMPO‑oxidation, and sodium‑periodate oxidation followed by cationization with Girard’s reagent. Combined with starch betainate, betaine hydrochloride, and Pluronics, these systems significantly improved paper surface properties and printability. The work resulted in a publication in Nanomaterials [Article](https://www.mdpi.com/2079-4991/12/16/2853), [national and international patent filings] (https://patentscope.wipo.int/search/en/WO2024023648), and ongoing pilot/industrial trials with partner company.
