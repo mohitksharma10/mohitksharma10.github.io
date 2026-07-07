@@ -39,7 +39,7 @@ I studied synergetic effect between highly substituted cationic starches and Plu
 <figure>
   <img src="/assets/images/Article_Synergetic effect of.jpg" 
      alt="GA"
-    style="display: block; margin: 0 auto; width: 80%; height: auto;">
+    style="display: block; margin: 0 auto; width: 60%; height: auto;">
   <figcaption>Fluorescence emission spectrum of OBA in presence of HCS (cationic starch ether) and SB (cationic starch ester). An excitation wavelength of 350 nm was used to record all spectra.
 </figcaption>
 </figure>
