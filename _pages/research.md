@@ -15,7 +15,7 @@ My research lies at the development of bio-based materials, their production and
 - From Fossil to Forest 
 - Ligold
 
-## Syntheis of starch betainate
+## Novel Synthesis of Starch Betainate by Transesterification
 
 During this project, I develop a novel two-step synthesis of starch betainate (SB) using transesterification as a more sustainable and high-purity alternative to conventional etherification methods. I successfully converted starch into cationic esters by reacting it with methyl betainate in both aprotic solvents (DMF and DMSO) and via solid-state ball milling under various pH conditions. While the solution-based method in DMF achieved a higher degree of substitution (up to 0.4), the solvent-free ball milling approach was notably efficient, reaching a degree of substitution of 0.04 within just two hours while minimizing polymer degradation. Ultimately, the study concludes that these transesterification routes produce biodegradable, non-toxic cationic starches with high purity and no undesired coloring, offering a promising alternative for industrial applications such as papermaking and wastewater treatment
 
@@ -25,7 +25,7 @@ During this project, I develop a novel two-step synthesis of starch betainate (S
 </figcaption>
 </figure>
 
-## Integrating Machine Learning and Ocean Modeling
+## Synergetic Enhancement of Paper Printability and Whiteness
 
 <figure>
   <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
@@ -33,7 +33,8 @@ During this project, I develop a novel two-step synthesis of starch betainate (S
 </figcaption>
 </figure>
 
-Integrating machine learning (ML) with ocean modeling offers a promising path to improving the accuracy and efficiency of ocean simulations, and plays a central role in emerging hybrid climate modeling approaches that combine physics-based and data-driven components. My work focuses on developing ML-based parameterizations for ocean physical processes, using both offline and online approaches:
+This study demonstrates a synergetic effect between highly substituted cationic starches and Pluronic triblock copolymers that significantly enhances the inkjet printing quality of office papers. While individual components like starch betainate or Pluronic P123 only moderately increased the gamut area (by 8.9% and 6.8%, respectively), their combined application in paper coatings resulted in a 16–18% improvement. A key discovery is that starch betainate (a cationic ester) serves as a superior alternative to traditional cationic ethers because it quenches optical brightening agents (OBA) to a much lesser extent, thereby preserving paper whiteness while simultaneously improving ink density and gamut volume. Ultimately, the binary interaction between these components facilitates better ink fixation and binder penetration, offering a more effective and biodegradable route for high-quality paper coatings
+
 
 * **Offline learning:** ML models are trained on outputs from high-resolution simulations or observational datasets before being incorporated into the ocean model.
 * **Online learning:** ML models are trained dynamically during the simulation itself, requiring the ocean model to be differentiable.
