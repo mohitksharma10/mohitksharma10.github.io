@@ -37,10 +37,10 @@ I studied synergetic effect between highly substituted cationic starches and Plu
 * **Skills learning:** Enzymatic Pretreatment, Statistical Modeling, Comprehensive Printing Metrics, Paper strenural and optical properties, contact angle goniometry, kinematic and inherent viscosity, SEM
   
 <figure>
-  <img src="/assets/images/GA1.png" 
+  <img src="/assets/images/Article_Synergetic effect of.jpg" 
      alt="GA"
     style="display: block; margin: 0 auto; width: 80%; height: auto;">
-  <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations.
+  <figcaption>Fluorescence emission spectrum of OBA in presence of HCS (cationic starch ether) and SB (cationic starch ester). An excitation wavelength of 350 nm was used to record all spectra.
 </figcaption>
 </figure>
 
