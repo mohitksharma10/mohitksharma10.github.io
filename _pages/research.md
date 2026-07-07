@@ -19,11 +19,11 @@ My research lies at the development of bio-based materials, their production and
 
 <figure>
   <img src="/assets/images/Fig.2. HNMR_MeBetCl_SB.jpg">
-  <figcaption>Tracer release experiment in a global Oceananigans.jl configuration, simulating the enhancement of ocean alkalinity between Thailand and Indonesia.
+  <figcaption>1H NMR spectra of: a) MeBetCl (DMSO‑d6); b) starch (D2O); c) starch betainate obtained in alkaline medium, Experiment 2 in Table 1 (D2O). HDO signal has been cut.
 </figcaption>
 </figure>
 
-In my current role, I develop methods to improve the computational efficiency of simulating physical and biogeochemical ocean processes. At [C]Worthy, our goal is to quantify the carbon removal potential of climate intervention strategies such as ocean alkalinity enhancement and direct ocean capture. To reduce the high computational cost of running many individual climate intervention experiments, I am implementing and testing a technique that allows multiple intervention scenarios to be simulated within a single physical ocean model run, without the need for biogeochemistry. I carry out this work using ROMS-MARBL and Oceananigans.jl.
+During this project, I develop a novel two-step synthesis of starch betainate (SB) using transesterification as a more sustainable and high-purity alternative to conventional etherification methods. I successfully converted starch into cationic esters by reacting it with methyl betainate in both aprotic solvents (DMF and DMSO) and via solid-state ball milling under various pH conditions. While the solution-based method in DMF achieved a higher degree of substitution (up to 0.4), the solvent-free ball milling approach was notably efficient, reaching a degree of substitution of 0.04 within just two hours while minimizing polymer degradation. Ultimately, the study concludes that these transesterification routes produce biodegradable, non-toxic cationic starches with high purity and no undesired coloring, offering a promising alternative for industrial applications such as papermaking and wastewater treatment
 
 ## Integrating Machine Learning and Ocean Modeling
 
