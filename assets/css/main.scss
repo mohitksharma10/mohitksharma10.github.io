@@ -22,3 +22,7 @@ html {
     font-size: 20px; // change to whatever
   }
 }
+.page__content p {
+  text-align: justify;
+  hyphens: auto;
+}
