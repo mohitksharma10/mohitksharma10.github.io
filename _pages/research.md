@@ -51,7 +51,7 @@ This research demonstrates that incorporating micro-/nanofibrillated celluloses 
 <figure>
   <img src="/assets/images/Rheology.jpg" 
      alt="Rheology"
-    style="display: block; margin: 0 auto; width: 60%; height: auto;">
+    style="display: block; margin: 0 auto; width: 80%; height: auto;">
   <figcaption>Left: The kinetic energy field in NeverWorld2: a high-resolution idealized model that I used for studying the ocean energy cycle.
 Right: A schematic of the ocean energy cycle.
 </figcaption>
