@@ -27,13 +27,15 @@ During this project, I develop a novel two-step synthesis of starch betainate (S
 
 ## Synergetic Enhancement of Paper Printability and Whiteness
 
+This study demonstrates a synergetic effect between highly substituted cationic starches and Pluronic triblock copolymers that significantly enhances the inkjet printing quality of office papers. While individual components like starch betainate or Pluronic P123 only moderately increased the gamut area (by 8.9% and 6.8%, respectively), their combined application in paper coatings resulted in a 16–18% improvement. A key discovery is that starch betainate (a cationic ester) serves as a superior alternative to traditional cationic ethers because it quenches optical brightening agents (OBA) to a much lesser extent, thereby preserving paper whiteness while simultaneously improving ink density and gamut volume. Ultimately, the binary interaction between these components facilitates better ink fixation and binder penetration, offering a more effective and biodegradable route for high-quality paper coatings
+
 <figure>
   <img src="/assets/images/GA1.png" width="1000px" alt="">
   <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations.
 </figcaption>
 </figure>
 
-This study demonstrates a synergetic effect between highly substituted cationic starches and Pluronic triblock copolymers that significantly enhances the inkjet printing quality of office papers. While individual components like starch betainate or Pluronic P123 only moderately increased the gamut area (by 8.9% and 6.8%, respectively), their combined application in paper coatings resulted in a 16–18% improvement. A key discovery is that starch betainate (a cationic ester) serves as a superior alternative to traditional cationic ethers because it quenches optical brightening agents (OBA) to a much lesser extent, thereby preserving paper whiteness while simultaneously improving ink density and gamut volume. Ultimately, the binary interaction between these components facilitates better ink fixation and binder penetration, offering a more effective and biodegradable route for high-quality paper coatings
+
 
 
 * **Offline learning:** ML models are trained on outputs from high-resolution simulations or observational datasets before being incorporated into the ocean model.
