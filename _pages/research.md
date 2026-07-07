@@ -15,15 +15,15 @@ My research lies at the development of bio-based materials, their production and
 - From Fossil to Forest 
 - Ligold
 
-## Inpactus
+## Syntheis of starch betainate
+
+During this project, I develop a novel two-step synthesis of starch betainate (SB) using transesterification as a more sustainable and high-purity alternative to conventional etherification methods. I successfully converted starch into cationic esters by reacting it with methyl betainate in both aprotic solvents (DMF and DMSO) and via solid-state ball milling under various pH conditions. While the solution-based method in DMF achieved a higher degree of substitution (up to 0.4), the solvent-free ball milling approach was notably efficient, reaching a degree of substitution of 0.04 within just two hours while minimizing polymer degradation. Ultimately, the study concludes that these transesterification routes produce biodegradable, non-toxic cationic starches with high purity and no undesired coloring, offering a promising alternative for industrial applications such as papermaking and wastewater treatment
 
 <figure>
   <img src="/assets/images/Fig.2. HNMR_MeBetCl_SB.jpg">
   <figcaption>1H NMR spectra of: a) MeBetCl (DMSO‑d6); b) starch (D2O); c) starch betainate obtained in alkaline medium, Experiment 2 in Table 1 (D2O). HDO signal has been cut.
 </figcaption>
 </figure>
-
-During this project, I develop a novel two-step synthesis of starch betainate (SB) using transesterification as a more sustainable and high-purity alternative to conventional etherification methods. I successfully converted starch into cationic esters by reacting it with methyl betainate in both aprotic solvents (DMF and DMSO) and via solid-state ball milling under various pH conditions. While the solution-based method in DMF achieved a higher degree of substitution (up to 0.4), the solvent-free ball milling approach was notably efficient, reaching a degree of substitution of 0.04 within just two hours while minimizing polymer degradation. Ultimately, the study concludes that these transesterification routes produce biodegradable, non-toxic cationic starches with high purity and no undesired coloring, offering a promising alternative for industrial applications such as papermaking and wastewater treatment
 
 ## Integrating Machine Learning and Ocean Modeling
 
