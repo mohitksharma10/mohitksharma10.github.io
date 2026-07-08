@@ -32,8 +32,7 @@ author_profile: true
 
 ## Thesis
 
+1. PhD theis: Bio-based coatings for improving paper printing and barrier properties (March 2023) [more detail here](https://hdl.handle.net/10316/114397).
 
- My [thesis](https://hdl.handle.net/10316/114397) 
-
-
+2. Master thesis: Wet strengthens of paper by adding photo reactive, functional polymer and Influence of fillers on the efficiency of photo-crosslinking paper substrates (May 2014).
 
