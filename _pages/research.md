@@ -66,7 +66,7 @@ he work resulted in a publication  [(Article)](https://www.mdpi.com/2079-4991/12
 <figure>
   <img src="/assets/images/Rheology.jpg" 
      alt="Rheology"
-    style="display: block; margin: 0 auto; width: 60%; height: auto;">
+    style="display: block; margin: 0 auto; width: 100%; height: auto;">
   <figcaption>Left: Rheological behaviour: a viscosity as a function of share rate and b elastic modulus (G’) (●) and loss modulus (G”) (∆) as a function of the frequency of the PEC-M/NFC coating formulations.
 </figcaption>
 </figure>
