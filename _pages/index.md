@@ -20,7 +20,7 @@ I'm also part of the winning team for the 7th Edition Seed Projects for Interdis
 
 **PhD (Oct 2018 – March 2023)**
 
-I completed my PhD in Chemical Engineering at UC, developed in close collaboration with the Portuguese paper industry (particularly The Navigator Company) within the [Inpactus](https://www.uc.pt/spgi/dpa/projetos-cof-ue/inpactus/) project. My [thesis](https://estudogeral.uc.pt/handle/10316/114397?mode=full) focused on bio-based coatings to improve paper printing and barrier properties, including a novel transesterification route for corn starch functionalization and sustainable coating systems based on modified starch, nanocellulose, and rheology modifiers.
+I completed my PhD in Chemical Engineering at UC, developed in close collaboration with the Portuguese paper industry (particularly The Navigator Company) within the [Inpactus](https://www.uc.pt/spgi/dpa/projetos-cof-ue/inpactus/) project. My [thesis](https://hdl.handle.net/10316/114397) focused on bio-based coatings to improve paper printing and barrier properties, including a novel transesterification route for corn starch functionalization and sustainable coating systems based on modified starch, nanocellulose, and rheology modifiers.
 
 Since 2023, I've continued at CERES mentoring international PhD students, collaborating with postdocs, co-authoring four further high-impact papers, supervising a Master's thesis, serving as a jury member for another, and teaching pulp and paper science and nanotechnology at UC.
 
