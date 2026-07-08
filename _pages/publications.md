@@ -20,6 +20,15 @@ Coatings of xylan/chitosan complexes reinforced with micro/nanocellulose for foo
 
 Influence of dispersion of fibrillated cellulose on the reinforcement of coated papers (2023). Jose Luis Sanchez-Salvador, Maria Graça Rasteiro, Ana Balea, **Mohit Sharma**, Jorge FS Pedrosa, Carlos Negro, M Concepcion Monte, Angeles Blanco, Paulo JT Ferreira. _International Journal of Biological Macromolecules_ DOI: [10.1016/j.ijbiomac.2023.125886](https://doi.org/10.1016/j.ijbiomac.2023.125886). 
 
+Micro-/nano-fibrillated cellulose-based coating formulations: a solution for improving paper printing quality (2022). **Mohit Sharma**, Roberto Aguado, Dina Murtinho, Artur J.M. Valente, Paulo J.T. Ferreira. _Nanomaterials_. DOI: [10.3390/nano12162853](https://doi.org/10.3390/nano12162853). 
+
+Synergetic Effect of Cationic Starch (Ether/Ester) and Pluronics for Improving Inkjet Printing Quality of Office Papers (2021). **Mohit Sharma**, Roberto Aguado, Dina Murtinho, Artur J.M. Valente, Paulo J.T. Ferreira. _Cellulose_. DOI: [10.1007/s10570-021-04206-w](https://doi.org/10.1007/s10570-021-04206-w).
+
+Novel approach on the synthesis of starch betainate by transesterification (2021). **Mohit Sharma**, Roberto Aguado, Dina Murtinho, Artur J.M. Valente, Paulo J.T. Ferreira. _International Journal of Biological Macromolecules_. DOI: [10.1016/j.ijbiomac.2021.05.175](https://doi.org/10.1016/j.ijbiomac.2021.05.175).
+
+Dynamic Penetration Profile of Starch Betainate, Pluronics and PCC Coated Papers (2021). **Mohit Sharma**, Roberto Aguado, Dina Murtinho, Artur J.M. Valente, Paulo J.T. Ferreira. New opportunities for fibrous materials in the ecological transition, _KnE Materials Science_. DOI: [10.18502/kms.v7i1.11629](https://doi.org/10.18502/kms.v7i1.11629).
+
+A review on cationic starch and nanocellulose as paper coating component (2020). **Mohit Sharma**, Roberto Aguado, Dina Murtinho, Artur J.M. Valente, António P. Mendes De Sousa, Paulo J.T. Ferreira._International Journal of Biological Macromolecules_. DOI: [1016/j.ijbiomac.2020.06.131](https://doi.org/1016/j.ijbiomac.2020.06.131).
 
 ## Thesis
 
