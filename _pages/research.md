@@ -63,7 +63,13 @@ This research demonstrates that incorporating micro-/nanofibrillated celluloses 
 he work resulted in a publication  [(Article)](https://www.mdpi.com/2079-4991/12/16/2853) in Nanomaterials, [national and international patent filings] (https://patentscope.wipo.int/search/en/WO2024023648), and ongoing pilot/industrial trials with partner company.
 
 ## Adjoint Modeling in the North Atlantic
-
+<figure>
+  <img src="/assets/images/Rheology.jpg" 
+     alt="Rheology"
+    style="display: block; margin: 0 auto; width: 60%; height: auto;">
+  <figcaption>Left: Rheological behaviour: a viscosity as a function of share rate and b elastic modulus (G’) (●) and loss modulus (G”) (∆) as a function of the frequency of the PEC-M/NFC coating formulations.
+</figcaption>
+</figure>
 
 
 ## Uncertainty Quantification & Observing System Design
