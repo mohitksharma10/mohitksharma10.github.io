@@ -1,7 +1,7 @@
 ---
-title: "Project"
+title: "Projects"
 layout: archive
 sitemap: true
 author_profile: true
-permalink: /Project/
+permalink: /Projects/
 ---
