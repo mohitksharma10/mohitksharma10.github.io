@@ -10,10 +10,7 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the development of bio-based materials, their production and applications in high value added applications. I have involved in following research projects include:
-- Inpactus
-- From Fossil to Forest 
-- Ligold
+My research primarily focuses on the development, production, and application of bio-based materials for high-value applications.
 
 ## Novel Synthesis of Starch Betainate by Transesterification
 
