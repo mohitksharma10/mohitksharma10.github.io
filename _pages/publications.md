@@ -1,8 +1,8 @@
 ---
-title: "Publications"
+title: "Articles"
 layout: archive
 sitemap: true
-permalink: /publications/
+permalink: /Articles/
 author_profile: true
 ---
 
