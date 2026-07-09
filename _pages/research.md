@@ -62,7 +62,10 @@ This research demonstrates that incorporating micro-/nanofibrillated celluloses 
 
 he work resulted in a publication  [(Article)](https://www.mdpi.com/2079-4991/12/16/2853) in Nanomaterials, [national and international patent filings] (https://patentscope.wipo.int/search/en/WO2024023648), and ongoing pilot/industrial trials with partner company.
 
-## Adjoint Modeling in the North Atlantic
+## Reinforced Biobased Coatings for Sustainable Packaging
+
+This research demonstrates that xylan/chitosan polyelectrolyte complex (PEC) coatings reinforced with micro/nanofibrillated cellulose (M/NFC) significantly enhance the barrier, mechanical, and printing properties of paper for food packaging. The application of these biobased formulations rendered the paper completely air-impermeable, improved its oxygen barrier performance, and increased flexural stiffness by up to 32%. Additionally, these coatings increased surface oleophobicity and provided superior inkjet printing quality—including higher gamut volume and optical density—compared to traditional starch-based coatings. While M/NFC reinforcement improves structural integrity, the study concludes that content should be limited to 15 wt% to maintain coating homogeneity and optimal rheological behavior.
+
 <figure>
   <img src="/assets/images/Rheology.jpg" 
      alt="Rheology"
