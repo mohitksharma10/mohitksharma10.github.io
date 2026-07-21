@@ -78,7 +78,7 @@ This research demonstrates that lignin-containing microfibrillated cellulose (LM
 <figure>
   <img src="/assets/images/Figure6.jpg" 
      alt="Rheology"
-    style="display: block; margin: 0 auto; width: 100%; height: auto;">
+    style="display: block; margin: 0 auto; width: 60%; height: auto;">
   <figcaption>Tensile index (N m/g) of handsheets prepared using LYP and HYP in different waters as a function of increasing LMFC concentrations (represented by a gradient of colors, with darker shades indicating higher LMFC concentrations) and the corresponding calculated relative bonded area (%)
 </figcaption>
 </figure>
@@ -90,7 +90,7 @@ This research demonstrates that treating industrial white-water with chitosan si
 <figure>
   <img src="/assets/images/Chitosan requirement.jpg" 
      alt="Rheology"
-    style="display: block; margin: 0 auto; width: 100%; height: auto;">
+    style="display: block; margin: 0 auto; width: 60%; height: auto;">
   <figcaption>Ionic demand, conductivity and pH of white-water with respect to the change in chitosan concentration in white-water
 </figcaption>
 </figure>
