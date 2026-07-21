@@ -2,7 +2,7 @@
 title: "Patents"
 layout: single
 sitemap: true
-permalink: /patents/
+permalink: /Patents/
 author_profile: true
 toc: true
 toc_label: "Patents"
