@@ -71,5 +71,14 @@ This research demonstrates that xylan/chitosan polyelectrolyte complex (PEC) coa
 </figcaption>
 </figure>
 
+## LMFC Integration for Sustainable and Stronger Paper Packaging 
 
+This research demonstrates that lignin-containing microfibrillated cellulose (LMFC) significantly enhances the mechanical and barrier properties of unbleached kraft paper for sustainable packaging. While the addition of 5–10% LMFC improved the tensile index by up to 52% in demineralized water, the study reveals that industrial white-water with high cationic demand can significantly hinder these strength gains and increase refining energy by up to 65%. Despite the challenges posed by process water, LMFC consistently increased the relative bonded area, leading to higher sheet density, reduced air permeance, and improved oil and water resistance. Ultimately, the findings suggest that while LMFC is a highly effective strengthening agent, managing anionic trash in the water system is essential for its successful industrial application.
 
+<figure>
+  <img src="/assets/images/Rheology.jpg" 
+     alt="Rheology"
+    style="display: block; margin: 0 auto; width: 100%; height: auto;">
+  <figcaption>Left: Rheological behaviour: a viscosity as a function of share rate and b elastic modulus (G’) (●) and loss modulus (G”) (∆) as a function of the frequency of the PEC-M/NFC coating formulations.
+</figcaption>
+</figure>
