@@ -4,6 +4,11 @@ layout: archive
 sitemap: true
 author_profile: true
 permalink: /Patents/
+toc: true
+toc_label: "Patents"
+toc_icon: "gear"
+toc_sticky: true
+---
 ---
 ---
 | Patent Family | Jurisdiction | Publication/Application No. | Current Status* |
