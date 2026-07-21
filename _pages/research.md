@@ -88,9 +88,9 @@ This research demonstrates that lignin-containing microfibrillated cellulose (LM
 This research demonstrates that treating industrial white-water with chitosan significantly enhances the effectiveness of lignin-containing microfibrillated cellulose (LMFC) as a paper-strengthening agent by neutralizing "anionic trash" that typically hinders its performance. While adding 3% LMFC to untreated white-water provided modest strength gains, the addition of an optimized dose of chitosan (27.5 mg/L) neutralized the white-water's ionic demand, leading to substantial mechanical improvements: internal bonding strength increased by 111% and tensile index by 22% compared to paper produced without LMFC in untreated process water. Furthermore, this modification improved LMFC retention, reduced air permeance by up to 62%, and enhanced oleophobic properties while simultaneously retaining more colored compounds from the process water. Ultimately, the study concludes that chitosan-modified white-water offers a cost-effective and sustainable strategy for achieving high-strength performance and improved color management in industrial packaging paper production.
 
 <figure>
-  <img src="/assets/images/Figure6.jpg" 
+  <img src="/assets/images/Chitosan requirement.jpg" 
      alt="Rheology"
     style="display: block; margin: 0 auto; width: 100%; height: auto;">
-  <figcaption>Tensile index (N m/g) of handsheets prepared using LYP and HYP in different waters as a function of increasing LMFC concentrations (represented by a gradient of colors, with darker shades indicating higher LMFC concentrations) and the corresponding calculated relative bonded area (%)
+  <figcaption>Ionic demand, conductivity and pH of white-water with respect to the change in chitosan concentration in white-water
 </figcaption>
 </figure>
