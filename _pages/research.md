@@ -21,7 +21,7 @@ I develop a novel two-step synthesis of starch betainate (SB) using transesterif
   <img src="/assets/images/Fig.2. HNMR_MeBetCl_SB.jpg"
     alt="1H NMR spectra"
     style="display: block; margin: 0 auto; width: 60%; height: auto;">
-  <figcaption>1H NMR spectra of: a) MeBetCl (DMSO‑d6); b) starch (D2O); c) starch betainate obtained in alkaline medium, Experiment 2 in Table 1 (D2O). HDO signal has been cut.
+  <figcaption>1H NMR spectra of: a) MeBetCl (DMSO‑d6); b) starch (D2O); c) starch betainate obtained in alkaline medium.
 </figcaption>
 </figure>
 
