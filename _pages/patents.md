@@ -1,9 +1,9 @@
 ---
 title: "Patents"
-layout: archive
+layout: single
 sitemap: true
-author_profile: true
 permalink: /Patents/
+author_profile: true
 toc: true
 toc_label: "Patents"
 toc_icon: "gear"
