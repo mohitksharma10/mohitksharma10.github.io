@@ -72,10 +72,4 @@ This research demonstrates that xylan/chitosan polyelectrolyte complex (PEC) coa
 </figure>
 
 
-## Uncertainty Quantification & Observing System Design
-
-
-
-## Development of Open Source Software Tools
-
 
