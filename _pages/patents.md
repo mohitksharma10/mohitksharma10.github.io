@@ -9,22 +9,8 @@ toc_label: "Patents"
 toc_icon: "gear"
 toc_sticky: true
 ---
----
----
-| Patent Family | Jurisdiction | Publication/Application No. | Current Status* |
-|---|---|---|---|
-| **Starch betainate and its production/use** | International (PCT) | **WO2022168011** | Published PCT application |
-| | Europe | **EP4289869** | European patent application under examination |
-| | Portugal | **PT117053** | Portuguese national application |
-| **Betaine hydrochloride formulations and applications** | International (PCT) | **WO2024023648** | Published PCT application |
-| | Europe | **EP4563743** | European patent application under examination |
-| | Portugal | **PT118132** | Portuguese national application |
-| | Mexico | **MX2025001097** | National phase application under examination |
 
-*Status as of [month/year] — update periodically.
-
-## Patent Family 1
-# Starch Betainate and Its Production
+## Starch Betainate and Its Production
 
 WO2022168011 (PCT)
 - WO2022168011 (International PCT)
@@ -44,8 +30,7 @@ I was responsible for:
 - Demonstrating improvements in paper strength and printability.
 - Supporting intellectual property development and scientific dissemination.
 
-## Patent Family 2
-# Betaine Hydrochloride Formulations and Applications
+## Betaine Hydrochloride Formulations and Applications
 
 WO2024023648 (PCT)
 - WO2024023648 (International PCT)
