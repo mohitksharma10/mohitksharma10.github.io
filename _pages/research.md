@@ -53,7 +53,7 @@ This research demonstrates that incorporating micro-/nanofibrillated celluloses 
   <img src="/assets/images/Coating and printing.jpg" 
      alt="Rheology"
     style="display: block; margin: 0 auto; width: 60%; height: auto;">
-  <figcaption>Left: Effect of betaine hydrochloride on (A) gamut area, optical density for black, (B) print through and inter color bleed in presence of PCC, P123 and micro-/nanofibrillated celluloses.
+  <figcaption>Representation of sizing/coating using formulations containing cationic polymers, non ionic polymers or pigments and printing of coated papers using inkjet inks.
 </figcaption>
 </figure>
 
