@@ -27,8 +27,8 @@ Since 2023, I've continued at CERES mentoring international PhD students, collab
 **Industry experience (2014–2018)**
 
 Before my PhD, I worked four years in the Indian pulp and paper industry:
-- **Satia Industries Limited** – 2 months as a Post Graduate Engineer Trainee in the Chemical Recovery Plant, gaining hands-on exposure to pulp production, chemical handling, evaporators, and the recovery boiler.
-- **Nepa Limited** (Asia's oldest newsprint manufacturer, under the Government of India) – nearly 4 years as Shift Incharge, first leading a 12–14 person shift team in paper machine operations (newsprint from recycled paper), then moving to the project team for the [RMDP modernization plan](https://heavyindustries.gov.in/en/nepa-limited), where I coordinated with suppliers, ran on-site technical inspections, and supported installation of new paper machine and deinking equipment.
+- Satia Industries Limited – 2 months as a Post Graduate Engineer Trainee in the Chemical Recovery Plant, gaining hands-on exposure to pulp production, chemical handling, evaporators, and the recovery boiler.
+- Nepa Limited (Asia's oldest newsprint manufacturer, under the Government of India) – nearly 4 years as Shift Incharge, first leading a 12–14 person shift team in paper machine operations (newsprint from recycled paper), then moving to the project team for the [RMDP modernization plan](https://heavyindustries.gov.in/en/nepa-limited), where I coordinated with suppliers, ran on-site technical inspections, and supported installation of new paper machine and deinking equipment.
 
 This industrial grounding still shapes how I approach research and problem-solving today.
 
