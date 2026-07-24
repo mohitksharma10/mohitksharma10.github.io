@@ -50,7 +50,7 @@ This research demonstrates that incorporating micro-/nanofibrillated celluloses 
 * **Skills learning:** Enzymatic Pretreatment, Statistical Modeling, Comprehensive Printing Metrics, Paper strenural and optical properties, contact angle goniometry, kinematic and inherent viscosity, SEM
 
 <figure>
-  <img src="/assets/images/Printing.jpg" 
+  <img src="/assets/images/Coating and printing.jpg" 
      alt="Rheology"
     style="display: block; margin: 0 auto; width: 60%; height: auto;">
   <figcaption>Left: Effect of betaine hydrochloride on (A) gamut area, optical density for black, (B) print through and inter color bleed in presence of PCC, P123 and micro-/nanofibrillated celluloses.
