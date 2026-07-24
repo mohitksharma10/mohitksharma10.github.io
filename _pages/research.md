@@ -52,7 +52,7 @@ This research demonstrates that incorporating micro-/nanofibrillated celluloses 
 <figure>
   <img src="/assets/images/Coating and printing.jpg" 
      alt="Rheology"
-    style="display: block; margin: 0 auto; width: 60%; height: auto;">
+    style="display: block; margin: 0 auto; width: 80%; height: auto;">
   <figcaption>Representation of sizing/coating using formulations containing cationic polymers, non ionic polymers or pigments and printing of coated papers using inkjet inks.
 </figcaption>
 </figure>
